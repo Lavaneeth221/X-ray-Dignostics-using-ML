@@ -25,7 +25,6 @@ To run this project, you'll need:
 - Keras
 - Matplotlib
 
-![image](https://user-images.githubusercontent.com/120001183/232980736-32e44d99-b19e-4cba-8809-a78e0220fb37.png)
 
 3.Dataset
 
