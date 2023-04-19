@@ -52,4 +52,5 @@ Machine learning can be a valuable tool for diagnosing medical conditions from X
 7. Contributors
 
 Siddhartha Talasila
+
 Lavaneeth Reddy
